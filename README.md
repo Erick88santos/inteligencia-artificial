@@ -3,7 +3,7 @@
 
 <h1 align="center"> Detecção de objetos YOLOv4 na webcam no Google Colab </h1>
 
-Este notebook irá percorrer todas as etapas para realizar detecções de objetos YOLOv4 em sua webcam enquanto estiver no Google Colab. Estaremos usando scaled-YOLOv4 (yolov4-csp) para este tutorial, o detector de objetos mais rápido e preciso que existe atualmente.
+O arquivo do google colab irá percorrer todas as etapas para realizar detecções de objetos YOLOv4 em sua webcam enquanto estiver no Google Colab. Estaremos usando scaled-YOLOv4 (yolov4-csp) para este tutorial, o detector de objetos mais rápido e preciso que existe atualmente.
 
 <div align="center">
 
