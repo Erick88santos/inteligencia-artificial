@@ -8,6 +8,6 @@ O arquivo do google colab irá percorrer todas as etapas para realizar detecçõ
 
 <div align="center">
 
- <img src="https://user-images.githubusercontent.com/71516100/203782343-0d6b305b-4231-4ee4-833c-cc92daadce8c.png" width="500px"/>
+ <img src="https://user-images.githubusercontent.com/71516100/203795441-5a27bd2e-b015-4405-adfa-64159cd16e70.png" width="500px"/>
  
 </div>
