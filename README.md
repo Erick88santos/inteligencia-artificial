@@ -12,7 +12,7 @@
 
 ## 📚 Detecção de objetos YOLOv4 na webcam no Google Colab
 
-## 📚 Detecção de objetos YOLOv6 na webcam no Google Colab
+## 📚 Detecção de objetos YOLOv6 
 
 
 
