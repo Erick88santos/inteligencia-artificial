@@ -12,4 +12,7 @@
 
 ## 📚 Detecção de objetos YOLOv4 na webcam no Google Colab
 
-[YOLOv4](https://github.com/Erick88santos/inteligencia-artificial/blob/main/Vis%C3%A3o%20Computacional/YOLOv4/i.MD)
+## 📚 Detecção de objetos YOLOv6 na webcam no Google Colab
+
+
+
