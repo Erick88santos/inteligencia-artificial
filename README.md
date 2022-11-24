@@ -7,6 +7,6 @@ O arquivo do google colab irá percorrer todas as etapas para realizar detecçõ
 
 <div align="center">
 
- <img src="https://user-images.githubusercontent.com/71516100/203782343-0d6b305b-4231-4ee4-833c-cc92daadce8c.png" width="500px"/>
+ <img src="https://github.com/Erick88santos/inteligencia-artificial/issues/3#issue-1463273786" width="500px"/>
  
 </div>
