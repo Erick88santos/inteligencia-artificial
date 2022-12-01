@@ -13,9 +13,7 @@
 </div>
 
 
-## 📚 Detecção de objetos YOLOv4 na webcam no Google Colab
+# ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=1&message=DETECÇÃO%20DE%20OBJETOS%20COM%20yoloV4%20NA%20WEBCAN&color=9932CC&style=for-the-badge)
 
-## 📚 Detecção de objetos YOLOv6 
-
-
+# ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=2&message=DETECÇÃO%20DE%20OBJETOS%20COM%20yoloV6&color=800080&style=for-the-badge)
 
