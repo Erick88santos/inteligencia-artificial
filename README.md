@@ -1,7 +1,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 # <h1 align="center"> inteligência Artificial </h1>
 
-
+![](https://img.shields.io/badge/-Python-success?logo=python&logoColor=white&logoWidth=30)
+![](https://img.shields.io/badge/-javaScript-yellow?logo=javascript&logoColor=white&logoWidth=30)
+![](https://img.shields.io/badge/-C-informational?logo=c&logoColor=white&logoWidth=3)
 
 <div align="center">
 
